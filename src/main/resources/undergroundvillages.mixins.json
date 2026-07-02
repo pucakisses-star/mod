@@ -3,6 +3,9 @@
   "package": "com.undergroundvillages.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "MobSetTargetMixin",
+    "RaidJoinMixin",
+    "VillagerTypeAccessor"
   ],
   "client": [
   ],
