@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "undergroundvillages:block/prospecting_table_top",
+    "side": "undergroundvillages:block/prospecting_table_side",
+    "bottom": "undergroundvillages:block/prospecting_table_bottom"
+  }
+}

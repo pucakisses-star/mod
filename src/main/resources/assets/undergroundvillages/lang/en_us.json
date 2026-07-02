@@ -1,0 +1,22 @@
+{
+  "block.undergroundvillages.prospecting_table": "Prospecting Table",
+  "block.undergroundvillages.tavern_hearth": "Tavern Hearth",
+  "item.undergroundvillages.mining_hat": "Mining Hat",
+  "item.undergroundvillages.wolf_whistle": "Wolf Whistle",
+  "item.undergroundvillages.cat_bell": "Cat Bell",
+  "item.undergroundvillages.parrot_cracker": "Parrot Cracker",
+  "item.undergroundvillages.mercenary_spawn_egg": "Mercenary Spawn Egg",
+  "item.undergroundvillages.collector_spawn_egg": "Collector Spawn Egg",
+  "entity.undergroundvillages.mercenary": "Mercenary",
+  "entity.undergroundvillages.collector": "The Collector",
+  "itemGroup.undergroundvillages.main": "Underground Villages",
+  "entity.minecraft.villager.undergroundvillages.miner": "Miner",
+  "entity.minecraft.villager.undergroundvillages.tavern_keeper": "Tavern Keeper",
+  "entity.minecraft.villager.miner": "Miner",
+  "entity.minecraft.villager.tavern_keeper": "Tavern Keeper",
+  "message.undergroundvillages.mercenary_hired": "The mercenary will fight for you for %s days.",
+  "message.undergroundvillages.mercenary_expired": "The mercenary's contract has ended — they are returning to the tavern.",
+  "message.undergroundvillages.mercenary_busy": "This mercenary already serves another.",
+  "message.undergroundvillages.mercenary_cost": "The mercenary demands 30 emeralds for a contract.",
+  "message.undergroundvillages.collector_deal": "The Collector grins... somewhere, illagers sharpen their blades."
+}
