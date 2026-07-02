@@ -1,0 +1,32 @@
+{
+  "fallback": "undergroundvillages:zombie_village/terminators",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "undergroundvillages:zombie_village/miner_house",
+        "processors": "undergroundvillages:zombie_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "undergroundvillages:zombie_village/storage_house",
+        "processors": "undergroundvillages:zombie_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "undergroundvillages:zombie_village/forge_house",
+        "processors": "undergroundvillages:zombie_decay",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

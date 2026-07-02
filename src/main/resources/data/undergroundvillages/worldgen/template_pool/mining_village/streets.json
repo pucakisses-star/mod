@@ -1,0 +1,32 @@
+{
+  "fallback": "undergroundvillages:mining_village/terminators",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "undergroundvillages:mining_village/street_straight",
+        "processors": "undergroundvillages:ore_veins",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "undergroundvillages:mining_village/street_corner",
+        "processors": "undergroundvillages:ore_veins",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "undergroundvillages:mining_village/street_t",
+        "processors": "undergroundvillages:ore_veins",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

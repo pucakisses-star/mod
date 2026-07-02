@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "undergroundvillages:zombie_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 42,
+    "separation": 18,
+    "salt": 2011473689,
+    "frequency": 0.5
+  }
+}
