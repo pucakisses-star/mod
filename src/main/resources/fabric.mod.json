@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "undergroundvillages",
+  "version": "${version}",
+  "name": "Underground Villages",
+  "description": "Adds underground villages to caves: mining villages with miner villagers and light-emitting mining hats, mushroom villages in lush caves, zombie villages, illager villages in the deep dark with wither-frame basements, and taverns that pacify hostile mobs and host unique traders, mercenaries and more.",
+  "authors": [
+    "pucakisses-star"
+  ],
+  "contact": {
+    "sources": "https://github.com/pucakisses-star/mod"
+  },
+  "license": "MIT",
+  "icon": "assets/undergroundvillages/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.undergroundvillages.UndergroundVillages"
+    ],
+    "client": [
+      "com.undergroundvillages.client.UndergroundVillagesClient"
+    ]
+  },
+  "mixins": [
+    "undergroundvillages.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
